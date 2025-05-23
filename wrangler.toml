@@ -1,0 +1,8 @@
+name = "advanced-en-6th"
+compatibility_date = "2023-12-01"
+
+[env.production]
+name = "advanced-en-6th"
+
+[[env.production.pages_build_output_dir]]
+value = "docs/.vuepress/dist" 
