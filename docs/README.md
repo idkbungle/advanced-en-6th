@@ -4,6 +4,7 @@ icon: home
 title: Advanced English 6th Edition
 heroImage: /logo.png
 heroText: Advanced English 6th Edition
+heroFullScreen: false
 tagline: A comprehensive English learning resource with translations and analysis
 actions:
   - text: Start Learning
