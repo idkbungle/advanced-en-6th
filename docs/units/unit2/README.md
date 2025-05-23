@@ -1,11 +1,10 @@
 ﻿---
 title: Unit 2
+icon: book
 date: 2024-01-01 12:00:00
-permalink: /units/unit2/
-sidebar: auto
-categories:
+category:
   - Units
-tags:
+tag:
   - English Learning
   - Translation
   - Unit 2
@@ -26,7 +25,7 @@ author:
 
 "Never put off till tomorrow," exhorted Lord Chesterfield in 1749, "what you can do today.鈥?That the elegant earl never got around to marrying his son's mother虏 and had a bad habit of keeping worthies like Dr. Johnson cooling their heels for hours in an anteroom attests to鲁 the fact that even the most well-intentioned men have been postponers ever鈦? Quintus Fabius Maximus, one of the great Roman generals, was dubbed "Cunctator" (Delayer) for putting off battle until the last possible vinum break.鈦?Moses pleaded a speech defect to rationalize his reluctance to deliver Jehovah's edict to Pharaoh.鈦?Hamlet, of course, raised procrastination to an art form.
 
-1749 骞达紝鍒囨柉鐗硅彶灏斿痉鍕嬬埖鍛婅浜轰滑锛氣€滀粖鏃ヤ簨锛屼粖鏃ユ瘯銆傗€濈劧鑰岋紝杩欎綅浼橀泤鐨勪集鐖佃嚜宸卞嵈浠庢湭涓庝粬鍎垮瓙鐨勬瘝浜插畬濠氾紝骞朵笖鏈変釜鍧忎範鎯紝鍠滄璁╃害缈伴€婂崥澹繖鏍风殑鍚嶆祦鍦ㄦ帴寰呭閲屼竴绛夊氨鏄ソ鍑犱釜灏忔椂銆傝繖閮借鏄庯紝鍗充究鏄渶鍠勬剰鐨勪汉锛屼篃闅惧厤鏈夋嫋寤剁殑姣涚梾銆傚彜缃楅┈鍚嶅皢鏄嗗浘鏂疯垂杈孤烽┈鍏嬭タ濮嗘柉鍥犳€绘槸灏嗘垬浜嬫嫋鍒版渶鍚庝竴鍒绘墠寮€鎵擄紝鑰岃鎴忕О涓衡€滄嫋寤惰€呪€濄€傛懇瑗垮垯浠ュ彛鍚冧负鐢憋紝涓鸿嚜宸变笉鎰垮悜娉曡€佷紶杈捐€跺拰鍗庣殑鏃ㄦ剰鎵惧€熷彛銆傚綋鐒讹紝杩樻湁鍝堝闆风壒锛屼粬绠€鐩存妸鎷栧欢鐥囧崌鍗庢垚浜嗕竴闂ㄨ壓鏈€?
+1749 骞达紝鍒囨柉鐗硅彶灏斿痉鍕嬬埖鍛婅浜轰滑锛氣€滀粖鏃ヤ簨锛屼粖鏃ユ瘯銆傗€濈劧鑰岋紝杩欎綅浼橀泤鐨勪集鐖佃嚜宸卞嵈浠庢湭涓庝粬鍎垮瓙鐨勬瘝浜插畬濠氾紝骞朵笖鏈変釜鍧忎範鎯紝鍠滄璁╃害缈伴€婂崥澹繖鏍风殑鍚嶆祦鍦ㄦ帴寰呭閲屼竴绛夊氨鏄ソ鍑犱釜灏忔椂銆傝繖閮借鏄庯紝鍗充究鏄渶鍠勬剰鐨勪汉锛屼篃闅惧厤鏈夋嫋寤剁殑姣涚梾銆傚彜缃楅┈鍚嶅皢鏄嗗浘鏂疯垂杈孤烽┈鍏嬭タ濮嗘柉鍥犳€绘槸灏嗘垬浜嬫嫋鍒版渶鍚庝竴鍒绘墠寮€鎵擄紝鑰岃鎴忕О涓衡€滄嫋寤惰€呪€濄€傛懇瑗垮垯浠ュ彛鍚冧负鐢憋紝涓鸿嚜宸变笉鎰垮悜娉曡€佷紶杈捐€跺拰鍗庣殑鏃ㄦ剰鎵惧€熷彛銆傚綋鐒讹紝杩樻湁鍝堝闆风壒锛屼粬绠€鐩存妸鎷栧欢鐥囧崌鍗庢垚浜嗕竴闂ㄨ壓鏈€?
 The world is probably about evenly divided between delayers and do-it-nowers. There are those who prepare their income taxes in February鈦? prepay mortgages and serve precisely planned dinners at an ungodly 6:30 p.m. The other half dine happily on leftovers at 9 or 10, misplace bills and file for an extension of the income tax deadline. They seldom pay credit-card bills until the apocalyptic voice of Diners threatens doom from Denver鈦? They postpone, as Faustian encounters鹿鈦? visits to barbershop, dentist or doctor.
 
 杩欎笘涓婄殑浜猴紝澶ф鍙互骞冲潎鍒嗕负鈥滄嫋寤舵淳鈥濆拰鈥滆鍔ㄦ淳鈥濄€傛湁浜涗汉浜屾湀浠藉氨寮€濮嬪噯澶囨姤绋庯紝鎻愬墠鍋胯繕鎶垫娂璐锋锛岃繕浼氬湪涓嬪崍鍏偣鍗婅繖涓潪鍚屽甯哥殑鏃堕棿鐐瑰噯鏃剁涓婄簿蹇冨噯澶囩殑鏅氶銆傝€屽彟涓€鍗婁汉鍒欏湪鏅氫笂涔濄€佸崄鐐归挓鎵嶆偁鐒朵韩鐢ㄥ墿鑿滃墿楗紝璐﹀崟闅忔墜涔变涪锛岃繕浼氱敵璇峰欢鏈熸姤绋庛€備粬浠€绘槸鎷栧埌淇＄敤鍗″叕鍙稿彂鍑哄偓娆捐鍛婏紝鎵嶄笉绱т笉鎱㈠湴鍘昏繕淇＄敤鍗¤处鍗曘€備粬浠繕浼氬儚娴＋寰峰寰呴瓟楝间竴鏍凤紝鎶婄悊鍙戙€佺湅鐗欏尰鎴栫湅鍖荤敓鐨勪簨涓€鎷栧啀鎷栥€?
@@ -35,7 +34,7 @@ Yet for all the trouble procrastination may incur, delay can often inspire and r
 灏界鎷栧欢鍙兘浼氬甫鏉ヤ笉灏戦夯鐑︼紝浣嗗畠寰€寰€涔熻兘婵€鍙戝拰鍞ら啋鍒涗綔鑰呯殑鐏甸瓊銆傚啓杩囧閮ㄧ晠閿€灏忚鍜屽墽鏈殑浣滃鐞悸风灏旇锛屽ス鍦ㄥ潗鍒版墦瀛楁満鍓嶅紑濮嬪啓浣滀箣鍓嶏紝浼氭妸鍘ㄦ埧閲屾瘡涓堡缃愬拰鏋滈叡鐡朵笂鐨勬爣绛鹃兘璇讳竴閬嶃€傝澶氫綔瀹朵篃閮戒細鎶婃敞鎰忓姏鏀惧湪鍚勭鏃犲叧绱ц鐨勪簨鎯呬笂锛岃€屼笉鏄笓娉ㄤ簬鎵嬪ご鐨勪换鍔°€備緥濡傦紝缂呭洜宸炴硶鍥戒汉婀惧拰宸村皵娓殑娴峰哺鍜屽ぇ鍦版祴閲忥紝鐢ㄥ彜閲戞柉绀併€佸竷鏈楄尐姹犲銆佸笇濂ュ北浠ュ強浼仼鐗规尝涓樻淳鎭╁矝銆侀暱娉笜娲炬仼宀涖€佺坏缇婃尝涓樻淳鎭╁矝鍜岀娉笜娲炬仼宀涚瓑鍦板悕鏉ユ縺鍙戞兂璞″姏銆?
 From Cunctator's day until this century, the art of postponement had been virtually a monopoly of the military ("Hurry up and wait"), diplomacy and the law. In former times, a British proconsul faced with a native uprising could comfortably ruminate about the situation with Singapore Sling鹿鲁 in hand. Blessedly, he had no nattering Telex鹿鈦?to order in machine guns and fresh troops. A U.S. general as late as World War II could agree with his enemy counterpart鹿鈦?to take a sporting day off, loot the villagers' chickens and wine and go back to battle a day later. Lawyers are among the world's most addicted postponers. According to Frank Nathan, a nonpostponing Beverly Hills鹿鈦?insurance salesman, "The number of attorneys who die without a will is amazing."
 
-浠庘€滄嫋寤惰€呪€濇槅鍥炬柉鐨勬椂浠ｅ埌鏈笘绾紝鎷栧欢鐨勮壓鏈嚑涔庢垚浜嗗啗浜嬶紙鈥滆刀绱х粰鎴戠瓑鐫€鈥濓級銆佸浜ゅ拰娉曞緥棰嗗煙鐨勪笓鍒┿€傚湪杩囧幓锛屼竴浣嶈嫳鍥芥€荤潱闈㈠褰撳湴浜虹殑璧蜂箟锛屽ぇ鍙互涓€杈规偁闂插湴鍠濈潃鏂板姞鍧″徃浠ら浮灏鹃厭锛屼竴杈逛粠瀹规€濊€冨绛栥€傚€煎緱搴嗗垢鐨勬槸锛屼粬娌℃湁鍠嬪枊涓嶄紤鐨勭數浼犳満鏉ュ偓淇冧粬璋冮仯鏈烘灙鍜屾柊鍏点€傜敋鑷冲埌浜嗕簩鎴樻椂鏈燂紝涓€浣嶇編鍥藉皢鍐涜繕鍙互鍜屼粬鐨勬晫鏂瑰皢棰嗙害瀹氬ソ锛屼竴璧蜂紤鎴樹竴澶╋紝鍘绘姠澶烘潙姘戠殑楦″拰閰掞紝绗簩澶╁啀鍥炲幓鎺ョ潃鎵撲粭銆傚緥甯堝垯鏄笘鐣屼笂鏈€涓ラ噸鐨勬嫋寤剁棁鎮ｈ€呯兢浣撲箣涓€銆傛濡備粠涓嶆嫋寤剁殑璐濆紬鍒╁北淇濋櫓鎺ㄩ攢鍛樺紬鍏板厠路鍐呮．鎵€璇达細鈥滀护浜烘儕璁剁殑鏄紝寰堝寰嬪笀鍒版閮芥病绔嬩笅閬楀槺銆傗€?
+浠庘€滄嫋寤惰€呪€濇槅鍥炬柉鐨勬椂浠ｅ埌鏈笘绾紝鎷栧欢鐨勮壓鏈嚑涔庢垚浜嗗啗浜嬶紙鈥滆刀绱х粰鎴戠瓑鐫€鈥濓級銆佸浜ゅ拰娉曞緥棰嗗煙鐨勪笓鍒┿€傚湪杩囧幓锛屼竴浣嶈嫳鍥芥€荤潱闈㈠褰撳湴浜虹殑璧蜂箟锛屽ぇ鍙互涓€杈规偁闂插湴鍠濈潃鏂板姞鍧″徃浠ら浮灏鹃厭锛屼竴杈逛粠瀹规€濊€冨绛栥€傚€煎緱搴嗗垢鐨勬槸锛屼粬娌℃湁鍠嬪枊涓嶄紤鐨勭數浼犳満鏉ュ偓淇冧粬璋冮仯鏈烘灙鍜屾柊鍏点€傜敋鑷冲埌浜嗕簩鎴樻椂鏈燂紝涓€浣嶇編鍥藉皢鍐涜繕鍙互鍜屼粬鐨勬晫鏂瑰皢棰嗙害瀹氬ソ锛屼竴璧蜂紤鎴樹竴澶╋紝鍘绘姠澶烘潙姘戠殑楦″拰閰掞紝绗簩澶╁啀鍥炲幓鎺ョ潃鎵撲粭銆傚緥甯堝垯鏄笘鐣屼笂鏈€涓ラ噸鐨勬嫋寤剁棁鎮ｈ€呯兢浣撲箣涓€銆傛濡備粠涓嶆嫋寤剁殑璐濆紬鍒╁北淇濋櫓鎺ㄩ攢鍛樺紬鍏板厠路鍐呮．鎵€璇达細鈥滀护浜烘儕璁剁殑鏄紝寰堝寰嬪笀鍒版閮芥病绔嬩笅閬楀槺銆傗€?
 Even where there is no will, there is a way.鹿鈦?There is a difference, of course, between chronic procrastination and purposeful postponement, particularly in the higher echelons of business. Corporate dynamics鹿鈦?encourage the caution that breeds delay, says Richard Manderbach, Bank of America鹿鈦?group vice president. He notes that speedy action can be embarrassing or extremely costly. The data explosion虏鈦?fortifies those seeking excuses for inaction鈥攁nother report to be read, another authority to be consulted. "There is always," says Manderbach, "a delicate edge虏鹿 between having enough information and too much."
 
 鍗充究娌℃湁閬楀槺锛屼篃鎬绘湁鍔炴硶銆傚綋鐒讹紝涔犳儻鎬ф嫋寤跺拰鏈夌洰鐨勭殑鎺ㄨ繜鏄湁鍖哄埆鐨勶紝灏ゅ叾鏄湪浼佷笟楂樺眰涓€傜編鍥介摱琛岄泦鍥㈠壇鎬昏鐞嗘煡寰仿锋浖寰峰反璧〃绀猴紝浼佷笟鏂囧寲榧撳姳璋ㄦ厧琛屼簨锛岃€岃皑鎱庡線寰€浼氬鑷存嫋寤躲€備粬鎸囧嚭锛岃鍔ㄨ繃蹇彲鑳戒細浠や汉灏村艾鎴栭€犳垚鏋佸ぇ鐨勬崯澶便€傛暟鎹垎鐐稿垯涓洪偅浜涘鎵惧€熷彛鎷栧欢鐨勪汉鎻愪緵浜嗘洿澶氱悊鐢扁€斺€斿張鏈夋姤鍛婅璇讳簡锛屽張鏈変笓瀹惰鍜ㄨ浜嗐€傗€滃湪鎺屾彙瓒冲鐨勪俊鎭拰淇℃伅杩囧涔嬮棿锛屸€濇浖寰峰反璧锛屸€滄€绘槸瀛樺湪鐫€寰鐨勭晫闄愩€傗€?
@@ -47,7 +46,7 @@ Academe also takes high honors虏鈦?in procrastination. Bernard Sklar, a Univer
 瀛︽湳鐣屼篃鏄嫋寤剁棁鐨勨€滈噸鐏惧尯鈥濄€傚崡鍔犲窞澶у鐨勭ぞ浼氬瀹朵集绾冲痉路鏂厠鎷夋瘡澶╅兘鑳藉啓鍑轰笁鍒颁簲椤电殑鏂囩珷锛屼絾浠栨壙璁わ細鈥滄垜鐨勮澶氭湅鍙嬪湪闈㈠绌虹櫧椤垫椂閮戒細鎰熷埌鏋佸害鐥涜嫤銆備粬浠細鎵惧悇绉嶅悇鏍风殑鐞嗙敱鏉ユ嫋寤讹細鏁欏鐨勫帇鍔涖€佸搴殑璐ｄ换銆佹煡闃呮渶鏂扮殑涔︾睄銆佸鎵惧彟涓€鏉¤剼娉ㄧ瓑绛夈€傗€?
 Psychologists maintain that the most assiduous procrastinators虏鈦?are women, though many psychologists are (at $50-plus an hour) pretty good delayers themselves. Dr. Ralph Greenson, a U.C.L.A.?虏鈦?professor of clinical psychiatry (and Marilyn Monroe's鲁鈦?one-time shrink), takes a fairly gentle view of procrastination. "To many people," he says, "doing something, confronting, is the moment of truth鲁鹿. All frightened people will then avoid the moment of truth entirely, or evade or postpone it until the last possible moment." To Georgia State Psychologist Joen Fagan, however, procrastination may be a kind of subliminal way of sorting the important from the trivial. 鈥淲hen I drag my feet, there's usually some reason," says Fagan. 鈥淚 feel it, but I don't yet know the real reason."
 
-蹇冪悊瀛﹀璁や负锛屾渶椤藉浐鐨勬嫋寤剁棁鎮ｈ€呮槸濂虫€э紝灏界璁稿蹇冪悊瀛﹀鑷繁锛堟瘡灏忔椂鏀惰垂 50 澶氱編鍏冿級涔熸槸鐩稿綋鍘夊鐨勬嫋寤惰€呫€傚姞宸炲ぇ瀛︽礇鏉夌煻鍒嗘牎涓村簥绮剧鐥呭鏁欐巿鎷夊皵澶锋牸鏋楁．鍗氬＋锛堜篃鏄帥涓借幉路姊﹂湶鐨勫績鐞嗗尰鐢燂級瀵规嫋寤剁棁鎸佺浉褰撴俯鍜岀殑鐪嬫硶銆傗€滃璁稿浜烘潵璇达紝鈥濅粬璇达紝鈥滃仛鏌愪欢浜嬶紝鐩撮潰闂锛屽氨鏄€樼湡鐩告椂鍒烩€欍€傛墍鏈夋劅鍒板鎬曠殑浜洪兘浼氬畬鍏ㄥ洖閬跨湡鐩告椂鍒伙紝鎴栬€呴€冮伩銆佹帹杩熷畠锛岀洿鍒版渶鍚庝竴鍒汇€傗€濈劧鑰岋紝浣愭不浜氬窞绔嬪ぇ瀛︾殑蹇冪悊瀛﹀涔旀仼路璐规牴璁や负锛屾嫋寤跺彲鑳芥槸涓€绉嶆綔鎰忚瘑閲屽尯鍒嗛噸瑕佸拰鐞愮浜嬫儏鐨勬柟寮忋€傗€滃綋鎴戞嫋寤剁殑鏃跺€欙紝閫氬父鏄湁鍘熷洜鐨勶紝鈥濊垂鏍硅锛屸€滄垜鑳芥劅瑙夊埌锛屼絾鎴戣繕涓嶇煡閬撶湡姝ｇ殑鍘熷洜銆傗€?
+蹇冪悊瀛﹀璁や负锛屾渶椤藉浐鐨勬嫋寤剁棁鎮ｈ€呮槸濂虫€э紝灏界璁稿蹇冪悊瀛﹀鑷繁锛堟瘡灏忔椂鏀惰垂 50 澶氱編鍏冿級涔熸槸鐩稿綋鍘夊鐨勬嫋寤惰€呫€傚姞宸炲ぇ瀛︽礇鏉夌煻鍒嗘牎涓村簥绮剧鐥呭鏁欐巿鎷夊皵澶锋牸鏋楁．鍗氬＋锛堜篃鏄帥涓借幉路姊﹂湶鐨勫績鐞嗗尰鐢燂級瀵规嫋寤剁棁鎸佺浉褰撴俯鍜岀殑鐪嬫硶銆傗€滃綋鎴戞嫋寤剁殑鏃跺€欙紝閫氬父鏄湁鍘熷洜鐨勶紝鈥濊垂鏍硅锛屸€滄垜鑳芥劅瑙夊埌锛屼絾鎴戣繕涓嶇煡閬撶湡姝ｇ殑鍘熷洜銆傗€?
 In fact, there is a long and honorable history of procrastination to suggest that many ideas and decisions may well improve if postponed. It is something of a truism that to put off making a decision is itself a decision. The parliamentary process鲁虏 is essentially a system of delay and deliberation. So, for that matter, is the creation of a great painting, or an entree, or a book, or a building like Blenheim Palace鲁鲁, which took the Duke of Marlborough's鲁鈦?architects and laborers 15 years to construct. In the process, the design can mellow and marinate. Indeed, hurry can be the assassin of elegance. As T.H. White鲁鈦? author of Sword in the Stone, once wrote, time "is not meant to be devoured in an hour or a day, but to be consumed delicately and gradually and without haste."鲁鈦?In other words, pace鲁鈦?Lord Chesterfield, what you don't necessarily have to do today, by all means put off until tomorrow.
 
 浜嬪疄涓婏紝鎷栧欢鏈夌潃鎮犱箙鑰屽厜鑽ｇ殑鍘嗗彶锛岃繖琛ㄦ槑璁稿鎯虫硶鍜屽喅瀹氬鏋滄帹杩熷彲鑳戒細鍙樺緱鏇村ソ銆傗€滄帹杩熷仛鍐冲畾鏈韩灏辨槸涓€绉嶅喅瀹氣€濊繖鍙ヨ瘽鍦ㄦ煇绉嶇▼搴︿笂鏄€佺敓甯歌皥浜嗐€傝浼氱▼搴忔湰璐ㄤ笂灏辨槸涓€涓嫋寤跺拰瀹¤鐨勭郴缁熴€傚悓鏍凤紝鍒涗綔涓€骞呬紵澶х殑鐢讳綔銆佷竴閬撲富鑿溿€佷竴鏈功鎴栦竴搴у儚甯冭幈灏煎瀹繖鏍风殑寤虹瓚涔熸槸濡傛锛岄┈灏斿牎鍏埖鐨勫缓绛戝笀鍜屽伐浜轰滑鑺变簡 15 骞存墠寤烘垚瀹冦€傚湪杩欎釜杩囩▼涓紝璁捐鍙互涓嶆柇瀹屽杽鍜屽崌鍗庛€備簨瀹炰笂锛屼粨淇冭浜嬪彲鑳戒細鎵兼潃浼橀泤銆傛濡傘€婄煶涓墤銆嬬殑浣滆€?T.H. 鎬€鐗规浘缁忓啓閬擄紝鏃堕棿鈥滀笉鏄敤鏉ュ湪涓€灏忔椂鎴栦竴澶╁唴鍚炲櫖鎺夌殑锛岃€屾槸瑕佷粠瀹逛笉杩€佸惊搴忔笎杩涘湴鍘讳韩鐢ㄧ殑銆傗€濇崲鍙ヨ瘽璇达紝鎭曟垜鍐掔姱鍒囨柉鐗硅彶灏斿痉鍕嬬埖锛屼綘浠婂ぉ涓嶄竴瀹氶潪瑕佸仛鐨勪簨鎯咃紝瀹屽叏鍙互鎺ㄨ繜鍒版槑澶╁啀鍋氥€?
@@ -55,7 +54,7 @@ In fact, there is a long and honorable history of procrastination to suggest tha
 
 The article explores the concept of procrastination, examining its prevalence, causes, and consequences. It distinguishes between chronic procrastination and purposeful postponement, arguing that while the former can be detrimental, the latter can be beneficial, especially in creative and decision-making processes. The article provides historical and contemporary examples of procrastination, analyzes its psychological underpinnings, and suggests that delay can sometimes lead to better outcomes. It concludes that procrastination is a complex behavior with both negative and positive aspects, and that it should not always be viewed as a flaw.
 
-杩欑瘒鏂囩珷鎺㈣浜嗘嫋寤剁棁鐨勬蹇碉紝鍒嗘瀽浜嗗畠鐨勬櫘閬嶆€с€佸師鍥犲拰鍚庢灉銆傛枃绔犲尯鍒嗕簡闀挎湡鎷栧欢鍜屾湁鐩殑鐨勬帹杩燂紝璁や负鍓嶈€呭彲鑳芥槸鏈夊鐨勶紝鑰屽悗鑰呭彲鑳芥槸鏈夌泭鐨勶紝鐗瑰埆鏄湪鍒涢€犲拰鍐崇瓥杩囩▼涓€傛枃绔犳彁渚涗簡鎷栧欢鐥囩殑鍘嗗彶鍜屽綋浠ｇ殑渚嬪瓙锛屽垎鏋愪簡瀹冪殑蹇冪悊鍩虹锛屽苟鎻愬嚭寤惰繜鏈夋椂鍙互甯︽潵鏇村ソ鐨勭粨鏋溿€傛枃绔犵殑缁撹鏄紝鎷栧欢鐥囨槸涓€绉嶅鏉傜殑琛屼负锛屾棦鏈夋秷鏋佺殑涓€闈紝涔熸湁绉瀬鐨勪竴闈紝涓嶅簲璇ユ€绘槸琚涓轰竴绉嶇己闄枫€?
+杩欑瘒鏂囩珷鎺㈣浜嗘嫋寤剁棁鐨勬櫘閬嶆€с€佸師鍥犲拰鍚庢灉銆傛枃绔犲尯鍒嗕簡闀挎湡鎷栧欢鍜屾湁鐩殑鐨勬帹杩燂紝璁や负鍓嶈€呭彲鑳芥槸鏈夊鐨勶紝鑰屽悗鑰呭彲鑳芥槸鏈夌泭鐨勶紝鐗瑰埆鏄湪鍒涢€犲拰鍐崇瓥杩囩▼涓€傛枃绔犳彁渚涗簡鎷栧欢鐥囩殑鍘嗗彶鍜屽綋浠ｇ殑渚嬪瓙锛屽垎鏋愪簡瀹冪殑蹇冪悊鍩虹锛屽苟鎻愬嚭寤惰繜鏈夋椂鍙互甯︽潵鏇村ソ鐨勭粨鏋溿€傛枃绔犵殑缁撹鏄紝鎷栧欢鐥囨槸涓€绉嶅鏉傜殑琛屼负锛屾棦鏈夋秷鏋佺殑涓€闈紝涔熸湁绉瀬鐨勪竴闈紝涓嶅簲璇ユ€绘槸琚涓轰竴绉嶇己闄枫€?
 ## Analysis [鈥媇(#analysis)
 
 1.  **"Never put off till tomorrow," exhorted Lord Chesterfield in 1749, "what you can do today." That the elegant earl never got around to marrying his son's mother and had a bad habit of keeping worthies like Dr. Johnson cooling their heels for hours in an anteroom attests to the fact that even the most well-intentioned men have been postponers ever.**

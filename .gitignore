@@ -3,8 +3,12 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+yarn.lock
 
-# Build output
+# VuePress
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
 docs/.vuepress/dist/
 
 # Environment variables
@@ -25,7 +29,6 @@ docs/.vuepress/dist/
 Thumbs.db
 
 # Logs
-logs
 *.log
 
 # Runtime data

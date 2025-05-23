@@ -1,21 +1,49 @@
 ---
 home: true
-heroImage: /img/logo.png
+icon: home
+title: Advanced English 6th Edition
+heroImage: /logo.png
 heroText: Advanced English 6th Edition
 tagline: A comprehensive English learning resource with translations and analysis
-actionText: Start Learning →
-actionLink: /units/
+actions:
+  - text: Start Learning
+    icon: lightbulb
+    link: /units/
+    type: primary
+
+  - text: View on GitHub
+    icon: github
+    link: https://github.com/idkbungle/advanced-en-6th
+
 features:
-- title: Comprehensive Translation
-  details: Detailed translations and analysis of Text 1 from all 12 units of Advanced English textbook.
-- title: AI Translation Assistant
-  details: Built-in AI translation assistant with system prompts to help with learning and practice.
-- title: Interactive Learning
-  details: Modern web interface with search functionality and responsive design for better learning experience.
+  - title: Comprehensive Translation
+    icon: language
+    details: Detailed translations and analysis of Text 1 from all 12 units of Advanced English textbook.
+
+  - title: Interactive Learning
+    icon: laptop-code
+    details: Modern web interface with search functionality and responsive design for better learning experience.
+
+  - title: Rich Content
+    icon: book-open
+    details: Includes text analysis, vocabulary explanations, and cultural background information.
+
+  - title: Mobile Friendly
+    icon: mobile-alt
+    details: Optimized for mobile devices, learn anywhere, anytime.
+
+  - title: Open Source
+    icon: code
+    details: Free and open source, welcome contributions and feedback.
+
+  - title: Fast & Modern
+    icon: rocket
+    details: Built with VuePress 2 and modern web technologies for optimal performance.
+
 footer: Advanced English 6th Edition | Copyright © 2024 idkbungle
 ---
 
-# Welcome to Advanced English Translation Site
+## Welcome to Advanced English Translation Site
 
 欢迎来到高英翻译站点，本站点目前提供大三下高英课文的Text 1部分**翻译与解析**，同时已在**页面右下角**接入**内置sys提示词**的**AI翻译助手**，后续可能会接入高英课文与其他翻译领域论文作为**RAG知识库**。
 
@@ -32,7 +60,7 @@ footer: Advanced English 6th Edition | Copyright © 2024 idkbungle
 
 ## 技术栈
 
-**Vue.js**; **LLM Workflow**；**Python**
+**VuePress 2** | **Vue 3** | **TypeScript** | **Sass** | **VuePress Theme Hope**
 
 ## 站长长期运营的其他站点
 

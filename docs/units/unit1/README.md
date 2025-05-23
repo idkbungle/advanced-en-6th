@@ -1,14 +1,14 @@
 ---
 title: Unit 1 - If Only / Next Time
+icon: book
 date: 2024-01-01 12:00:00
-permalink: /units/unit1/
-sidebar: auto
-categories:
+category:
   - Units
-tags:
+tag:
   - English Learning
   - Translation
   - Unit 1
+star: true
 author:
   name: idkbungle
   link: https://github.com/idkbungle
@@ -16,148 +16,110 @@ author:
 
 # Unit 1 - If Only / Next Time
 
-## Table of Contents [​](#table-of-contents)
+::: info 单元信息
+**主题**: 人生感悟与心理调适  
+**核心短语**: "If Only" vs "Next Time"  
+**文体**: 记叙文 + 议论文
+:::
+
+## Table of Contents
 
 - [Text and Translation](#text-and-translation)
 - [Summary](#summary)
 - [Analysis](#analysis)
 - [Paraphrase](#paraphrase)
 
-## Text&Translation [​](#text-translation)
+## Text&Translation
 
-1▶ Nothing in life is more exciting and rewarding than the sudden flash of insight that leaves you a changed person¹—not only changed, but changed for the better. Such moments are rare, certainly, but they come to all of us. Sometimes from a book, a sermon, a line of poetry. Sometimes from a friend. … .
+::: tabs#content
 
-1▶ 人生中，没有什么比顿悟更激动人心、更有价值的了，它能让你脱胎换骨¹——不仅仅是改变，而且是变得更好。当然，这样的时刻并不多见，但我们每个人都会经历。有时它源于一本书、一次布道、一行诗句，有时则来自一位朋友……
+@tab 原文&译文
 
-2▶ That wintry afternoon in Manhattan, waiting in the little French restaurant, I was feeling frustrated and depressed. Because of several miscalculations on my part, a project of considerable importance in my life had fallen through. Even the prospect of seeing a dear friend (the Old Man, as I privately and affectionately thought of him) failed to cheer me as it usually did. I sat there frowning at the checkered tablecloth, chewing the bitter cud of hindsight².
+**1▶** Nothing in life is more exciting and rewarding than the sudden flash of insight that leaves you a changed person¹—not only changed, but changed for the better. Such moments are rare, certainly, but they come to all of us. Sometimes from a book, a sermon, a line of poetry. Sometimes from a friend. … .
 
-2▶ 那是一个冬日的午后，在曼哈顿，我在一家小法餐馆里等人，感到沮丧而消沉。由于我的几次失算，生活中一个相当重要的项目失败了。即使是想到即将见到一位挚友（我私下亲切地称他为"老头儿"），也没能像往常那样让我振作起来。我坐在那里，盯着格子桌布皱着眉头，沉浸在事后诸葛亮的苦涩反刍中²。
+**1▶** 人生中，没有什么比顿悟更激动人心、更有价值的了，它能让你脱胎换骨¹——不仅仅是改变，而且是变得更好。当然，这样的时刻并不多见，但我们每个人都会经历。有时它源于一本书、一次布道、一行诗句，有时则来自一位朋友……
+
+---
+
+**2▶** That wintry afternoon in Manhattan, waiting in the little French restaurant, I was feeling frustrated and depressed. Because of several miscalculations on my part, a project of considerable importance in my life had fallen through. Even the prospect of seeing a dear friend (the Old Man, as I privately and affectionately thought of him) failed to cheer me as it usually did. I sat there frowning at the checkered tablecloth, chewing the bitter cud of hindsight².
+
+**2▶** 那是一个冬日的午后，在曼哈顿，我在一家小法餐馆里等人，感到沮丧而消沉。由于我的几次失算，生活中一个相当重要的项目失败了。即使是想到即将见到一位挚友（我私下亲切地称他为"老头儿"），也没能像往常那样让我振作起来。我坐在那里，盯着格子桌布皱着眉头，沉浸在事后诸葛亮的苦涩反刍中²。
+
+@tab 重点词汇
+
+| 词汇/短语 | 释义 | 用法示例 |
+|----------|------|----------|
+| flash of insight | 顿悟，灵光一现 | A sudden flash of insight changed everything |
+| fallen through | 失败，落空 | The deal fell through at the last minute |
+| chewing the bitter cud | 反复思考痛苦的事 | Stop chewing the bitter cud of past mistakes |
+| hindsight | 事后诸葛亮 | In hindsight, I should have acted differently |
+| perceptiveness | 敏锐，洞察力 | His perceptiveness amazed everyone |
+
+:::
 
 3▶ He came across the street, finally, muffled in his ancient overcoat, shapeless felt hat pulled down over his bald head, looking more like an energetic gnome than an eminent psychiatrist. His offices were nearby; I knew he had just left his last patient of the day. He was close to 80, but he still carried a full case load³, still acted as director of a large foundation, still loved to escape to the golf course whenever he could.
 
-3▶ 他终于穿过街道走了过来，裹着他那件旧大衣，头上那顶不成形的毡帽压得很低，遮住了他的秃头，看起来与其说是一位著名的精神病学家，不如说更像一个精力充沛的侏儒。他的诊所就在附近；我知道他刚刚送走当天最后一位病人。他年近80，但仍然接诊很多病人³，仍然担任一家大型基金会的负责人，仍然喜欢一有机会就去打高尔夫球。
-
 4▶ By the time he came over and sat beside me, the waiter had brought his invariable bottle of ale. I had not seen him for several months, but he seemed as indestructible⁴ as ever. "Well, young man," he said without preliminary, "what's troubling you?"
-
-4▶ 等他走过来在我身边坐下时，服务员已经端来了他每次必点的麦芽酒。我已经好几个月没见到他了，但他看起来还是那么矍铄⁴。"好了，年轻人，"他开门见山地问道，"是什么困扰着你？"
 
 5▶ I had long since ceased to be surprised at his perceptiveness.⁵ So I proceeded to tell him, at some length⁶, just what was bothering me. With a kind of melancholy pride', I tried to be very honest. I blamed no one else for my disappointment, only myself. I analyzed the whole thing, all the bad judgments, the false moves⁸. I went on for perhaps 15 minutes, while the Old Man sipped his ale in silence.
 
-5▶ 对于他的敏锐，我早已习以为常⁵。于是我开始详详细细地⁶告诉他困扰我的事情。带着一种忧郁的自责⁷，我试图表现得非常诚实。对于我的失望，我不怪别人，只怪我自己。我分析了整个事情的来龙去脉，所有错误的判断，所有失策的行动⁸。我滔滔不绝地讲了大概15 分钟，而老头儿只是静静地喝着他的麦芽酒。
-
 6▶ When I finished, he put down his glass. "Come on," he said. "Let's go back to my office."
-
-6▶ 我讲完后，他放下了酒杯。"走吧，"他说，"我们回我的办公室。"
 
 7▶ "Your office? Did you forget something?"
 
-7▶ "你的办公室？你忘东西了吗？"
-
 8▶ "No," he said mildly. " I want your reaction to something. That's all."
-
-8▶ "没有，"他温和地说，"我想看看你对某件事的反应。仅此而已。"
 
 9▶ A chill rain was beginning to fall outside, but his office was warm and comfortable and familiar: book-lined walls, long leather couch, signed photograph of Sigmund Freud⁹, tape recorder by the window. His secretary had gone home. We were alone.
 
-9▶ 外面开始下起一阵冷雨，但他的办公室温暖、舒适而又熟悉：四壁都是书架，一张长长的皮沙发，墙上挂着西格蒙德·弗洛伊德⁹的签名照片，窗边放着一台录音机。他的秘书已经下班回家了。只有我们两个人。
-
 10▶ The Old Man took a tape from a flat cardboard box and fitted it onto the machine. "On this tape," he said, "are three short recordings made by three persons who came to me for help. They are not identified, of course. I want you to listen to the recordings and see if you can pick out the two-word phrase that is the common denominator'in all three cases." He smiled. "Don't look so puzzled. I have my reasons."
-
-10▶ 老头儿从一个扁平的纸板盒里取出一盘磁带，装进录音机。"这盘磁带里，"他说，"有三段简短的录音，是三个来找我寻求帮助的人录制的。当然，他们的身份信息被隐去了。我想让你听听这些录音，看看你能不能找出这三段录音中都出现的一个由两个词组成的短语。"他笑了笑，"别一脸困惑。我这么做是有原因的。"
 
 11▶ What the owners of the voices on the tape had in common, it seemed to me, was unhappiness. The man who spoke first evidently had suffered some kind of business loss or failure; he berated himself for not having worked harder, for not having looked ahead. The woman who spoke next had never married because of a sense of obligation to her widowed mother; she recalled bitterly all the marital chances she had let go by". The third voice belonged to a mother whose teenage son was in trouble with the police; she blamed herself endlessly.
 
-11▶ 在我看来，磁带中这些声音的主人有一个共同点，那就是不快乐。第一个说话的男人显然遭遇了某种生意上的损失或失败；他责备自己没有更努力地工作，没有更长远地考虑。第二个说话的女人因为对守寡的母亲负有责任感而一直没有结婚；她痛苦地回忆起她错过的所有婚姻机会。第三个声音属于一位母亲，她的十几岁的儿子惹上了警察的麻烦；她无休止地责备自己。
-
 12▶ The Old Man switched off the machine and leaned back in his chair. "Six times in those recordings a phrase is used that's full of subtle poison¹². Did you spot it? No? Well, perhaps that's because you used it three times yourself down in the restaurant a little while ago." He picked up the box that had held the tape and tossed it over to me. "There they are, right on the label. The two saddest words in any language."
-
-12▶ 老头儿关掉录音机，靠在椅背上。"在这些录音中，有一个充满微妙毒素¹²的短语出现了六次。你发现了吗？没有？嗯，也许是因为你刚才在餐馆里自己也用了三次。"他拿起装磁带的盒子，扔给了我。"就在这儿，标签上。这是任何语言中最令人伤感的两个词。"
 
 13▶ I looked down. Printed neatly in red ink were the words: If only.
 
-13▶ 我低头一看，上面用红墨水整整齐齐地印着：要是……就好了。
-
 14▶ "You'd be amazed," said the Old Man, "if you knew how many thousands of times I've sat in this chair and listened to woeful sentences beginning with those two words. 'If only,' they say to me, 'I had done it differently—or not done it at all. If only I hadn't lost my temper, said the cruel thing, made that dishonest move, told that foolish lie. If only I had been wiser, or more unselfish, or more self-controlled.' They go on and on until I stop them. Sometimes I make them listen to the recordings you just heard. 'If only,' I say to them, 'you'd stop saying if only, we might begin to get somewhere!'"
-
-14▶ "如果你知道，"老头儿说，"我坐在这把椅子上，听过多少次以这两个词开头的悲伤句子，你一定会大吃一惊的。'要是……就好了，'他们对我说，'我就不会那么做了——或者根本不会做了。要是当时我没有发脾气、没有说那些伤人的话、没有做那个不诚实的举动、没有说那个愚蠢的谎言就好了。要是我更明智一点、更无私一点、更自律一点就好了。'他们没完没了地说，直到我打断他们。有时我会让他们听听你刚才听到的录音。'要是，'我对他们说，'你们别再说要是……就好了，我们也许就能取得一些进展了！'"
 
 15▶ The Old Man stretched out his legs. "The trouble with 'if only," he said, "is that it doesn't change anything. It keeps the person facing the wrong way—backward instead of forward. It wastes time. In the end, if you let it become a habit, it can become a real roadblock, an excuse for not trying any more.
 
-15▶ 老头儿伸了伸腿。"'要是……就好了'的问题在于，"他说，"它不能改变任何事情。它让人们朝着错误的方向——向后看而不是向前看。它浪费时间。最终，如果你让它成为一种习惯，它就会成为一个真正的障碍，一个不再尝试的借口。"
-
 16▶ "Now take your own case: your plans didn't work out. Why? Because you made certain mistakes. Well, that's all right: everyone makes mistakes. Mistakes are what we learn from. But when you were telling me about them, lamenting this, regretting that, you weren't really learning from them."
-
-16▶ "现在说说你自己的情况：你的计划没有成功。为什么？因为你犯了一些错误。嗯，这没什么：每个人都会犯错误。错误是我们学习的来源。但是当你向我讲述这些错误时，哀叹这个，后悔那个，你并没有真正从中吸取教训。"
 
 17▶ "How do you know?" I said, a bit defensively.
 
-17▶ "你怎么知道？"我有点戒备地问道。
-
 18▶ "Because," said the Old Man, "you never got out of the past tense. Not once did you mention the future. And in a way—be honest, now!—you were enjoying it. There's a perverse streak in all of us that makes us like to hash over old mistakes.³ After all, when you relate the story of some disaster or disappointment that has happened to you, you're still the chief character, still in the center of the stage."
-
-18▶ "因为，"老头儿说，"你从来没有跳出过去时态。你一次也没有提到未来。而且在某种程度上——老实说！——你还乐在其中。我们每个人都有一种反常的心理，喜欢反复咀嚼过去的错误³。毕竟，当你讲述发生在你身上的灾难或失望的故事时，你仍然是主角，仍然处于舞台的中心。"
 
 19▶ I shook my head ruefully. "Well, what's the remedy?"
 
-19▶ 我懊恼地摇了摇头。"那么，有什么补救办法呢？"
-
 20▶ "Shift the focus," said the Old Man promptly. "Change the key words and substitute a phrase that supplies lift instead of creating drag¹⁴."
-
-20▶ "转移焦点，"老头儿立刻说道，"改变关键词，换一个能带来提升而不是阻力的短语¹⁴."
 
 21▶ "Do you have such a phrase to recommend?"
 
-21▶ "你有什么可以推荐的短语吗？"
-
 22▶ "Certainly. Strike out the words 'if only'; substitute the phrase 'next time.'"
-
-22▶ "当然。删掉'要是……就好了'；换成'下一次'。"
 
 23▶ "Next time?"
 
-23▶ "下一次？"
-
 24▶ "That's right. I've seen it work minor miracles right here in this room. As long as a patient keeps saying 'if only' to me, he's in trouble. But when he looks me in the eye¹⁵ and says 'next time,' I know he's on his way to overcoming his problem. It means he has decided to apply the lessons he has learned from his experience, however grim or painful it may have been. It means he's going to push aside the roadblock of regret, move forward, take action, resume living. Try it yourself. You'll see."
-
-24▶ "没错。我曾亲眼目睹它在这个房间里创造了一些小奇迹。只要病人一直对我说'要是……就好了'，他就还陷在困境中。但是当他看着我的眼睛¹⁵说'下一次'时，我就知道他正在克服他的问题。这意味着他已经决定应用他从他的经历中学到的教训，无论这些经历多么严峻或痛苦。这意味着他将推开悔恨的障碍，向前迈进，采取行动，继续生活。你自己试试看。你会明白的。"
 
 25▶ My old friend stopped speaking. Outside, I could hear the rain whispering against the windowpane. I tried sliding one phrase out of my mind and replacing it with the other. It was fanciful, of course, but I could hear the new words lock into place with an audible click¹⁶ ...
 
-25▶ 我的老朋友不再说话了。在外面，我能听到雨水轻轻拍打着窗玻璃的声音。我试着把一个短语从脑海中抹去，换成另一个。当然，这有点异想天开，但我仿佛能听到新词语嵌入脑海时发出咔哒一声¹⁶……
-
 26▶ The Old Man stood up a bit stiffly. "Well, class dismissed. It has been good to see you, young man. Always is. Now, if you will help me find a taxi, I probably should be getting on home."
-
-26▶ 老头儿站起身来，身体有点僵硬。"好了，下课。很高兴见到你，年轻人。每次都一样。现在，如果你能帮我叫辆出租车，我也该回家了。"
 
 27▶ We came out of the building into the rainy night. I spotted a cruising cab and ran toward it, but another pedestrian was quicker.
 
-27▶ 我们走出大楼，来到雨夜中。我看到一辆空驶的出租车，就跑了过去，但另一个行人比我更快。
-
 28▶ "My, my," said the Old Man slyly. "If only we had come down ten seconds sooner, we'd have caught that cab, wouldn't we?"
-
-28▶ "哎呀呀，"老头儿狡黠地说，"要是我们早十秒钟出来，就能赶上那辆出租车了，不是吗？"
 
 29▶ I laughed and picked up the cue. "Next time I'll run faster."
 
-29▶ 我笑了，接过了话茬。"下一次我会跑得更快。"
-
 30▶ "That's it," cried the Old Man, pulling his absurd hat down around his ears. "That's it exactly!"
-
-30▶ "就是这样，"老头儿喊道，把他那顶滑稽的帽子拉下来遮住耳朵，"完全正确！"
 
 31▶ Another taxi slowed. I opened the door for him. He smiled and waved as it moved away. I never saw him again. A month later, he died of a sudden heart attack, in full stride, so to speak.
 
-31▶ 另一辆出租车慢了下来。我为他打开车门。车开走时，他微笑着挥了挥手。我再也没见过他。一个月后，他突发心脏病去世了，可以说，他是在人生旅途中戛然而止的。
-
 32▶ More than a year has passed since that rainy afternoon in Manhattan. But to this day, whenever I find myself thinking "if only", I change it to "next time". Then I wait for that almost-perceptible mental click¹⁷. And when I hear it, I think of the Old Man.
-
-32▶ 距离曼哈顿那个雨天的下午已经过去一年多了。但直到今天，每当我发现自己在想"要是……就好了"时，我都会把它改成"下一次"。然后我等待着那几乎难以察觉的思维转换¹⁷。当我听到它时，我就会想起老头儿。
 
 33▶ A small fragment of immortality¹⁸, to be sure. But it's the kind he would have wanted.
 
-33▶ 当然，这只是一小段不朽的回忆¹⁸。但这是他想要的那种。
-
-## Summary [​](#summary)
+## Summary
 
 - **English Summary**
 
@@ -167,7 +129,7 @@ The article recounts a transformative encounter between the narrator and an elde
 
 这篇文章讲述了叙述者和一位年长的精神科医生（被称为"老人"）之间的一次变革性的相遇。由于一次重大的挫折，叙述者感到沮丧和沮丧，他向老人倾诉了自己的烦恼，老人没有提供直接的建议，而是引导他进行了一个独特的练习。通过听别人用"if only"这个短语表达遗憾的录音，叙述者意识到了沉溺于过去错误的破坏性。老人介绍了用"next time"代替"if only"的概念，这是一种前瞻性的方法，鼓励从过去中吸取教训并采取行动。这种简单而深刻的视角转变为叙述者留下了持久的影响，帮助他以新的希望和决心应对未来的挑战。老人不久后的突然去世进一步巩固了这一教训，将其转变为对他智慧的持久致敬。
 
-## Analysis [​](#analysis)
+## Analysis
 
 1.  **Nothing in life is more exciting and rewarding than the sudden flash of insight that leaves you a changed person—not only changed, but changed for the better.**
 
