@@ -19,10 +19,13 @@
 - **Build command**: `npm run build`
 - **Build output directory**: `docs/.vuepress/dist`
 - **Root directory**: `/` (保持默认)
+- **Node.js version**: `18` (推荐)
 
 ### 3. 环境变量（可选）
 
-如果需要，可以在 **Settings** > **Environment variables** 中添加环境变量。
+如果需要，可以在 **Settings** > **Environment variables** 中添加环境变量：
+
+- `NODE_VERSION`: `18`
 
 ### 4. 部署
 
@@ -54,8 +57,31 @@ npm run dev
 npm run build
 ```
 
+## 故障排除
+
+### 常见问题
+
+1. **依赖安装失败**
+   - 确保 `package.json` 中没有不存在的 npm 包
+   - 删除 `package-lock.json` 后重新安装
+
+2. **构建失败**
+   - 检查 Node.js 版本是否为 18
+   - 确保 VuePress 配置文件语法正确
+
+3. **wrangler.toml 配置问题**
+   - 确保使用正确的 Cloudflare Pages 配置格式
+   - 检查构建输出目录路径
+
+### 修复历史
+
+- **2025-05-23**: 修复了 `repojson` 依赖不存在的问题
+- **2025-05-23**: 更新了 `wrangler.toml` 配置格式
+- **2025-05-23**: 简化了插件配置以提高兼容性
+
 ## 注意事项
 
 - 确保所有 Markdown 文件都有正确的 frontmatter
 - 图片和静态资源应放在 `docs/.vuepress/public/` 目录下
-- 修改配置文件后需要重启开发服务器 
+- 修改配置文件后需要重启开发服务器
+- 避免使用不兼容或不存在的 VuePress 插件 
