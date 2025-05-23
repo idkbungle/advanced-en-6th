@@ -1,44 +1,43 @@
 # Advanced English 6th Edition
 
-This repository contains the content for the Advanced English 6th Edition learning materials, built with VuePress and the vdoing theme.
-
-## About
-
-This project aims to provide accessible learning materials for Advanced English 6th Edition. The content is organized by units and includes text, translations, summaries, and analysis.
+A comprehensive English learning resource built with VuePress and vdoing theme.
 
 ## Features
 
-- Responsive design for desktop and mobile
-- Organized content structure
-- Easy navigation between units
-- Search functionality
-- Dark/light mode
+- 📚 Complete translations and analysis for all 12 units
+- 🎨 Beautiful and modern UI with vdoing theme
+- 🔍 Full-text search functionality
+- 📱 Responsive design for mobile devices
+- ⚡ Fast static site generation with VuePress
 
-## Local Development
+## Development
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/advanced-en-6th.git
-cd advanced-en-6th
-
 # Install dependencies
 npm install
 
-# Start local development server
+# Start development server
 npm run dev
-```
 
-## Building for Production
-
-```bash
-# Build the static site
+# Build for production
 npm run build
 ```
 
 ## Deployment
 
-The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+This site is automatically deployed to Cloudflare Pages when changes are pushed to the main branch.
+
+## Contributing
+
+If you have better translations or suggestions, please:
+1. Fork this repository
+2. Create your feature branch
+3. Submit a pull request
 
 ## License
 
-MIT
+MIT License
+
+## Author
+
+[idkbungle](https://github.com/idkbungle)

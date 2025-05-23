@@ -1,7 +1,7 @@
 {
   "name": "advanced-en-6th",
   "version": "1.0.0",
-  "description": "Advanced English 6th Edition",
+  "description": "Advanced English 6th Edition VuePress Site",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
@@ -11,12 +11,18 @@
   "keywords": [
     "vuepress",
     "english",
-    "learning"
+    "education"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "idkbungle",
+  "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.7",
-    "vuepress-theme-vdoing": "^1.12.9"
+    "vuepress-theme-vdoing": "^1.12.8",
+    "dayjs": "^1.11.7",
+    "inquirer": "^7.3.3",
+    "json2yaml": "^1.1.0",
+    "repojson": "^1.0.4",
+    "yaml": "^1.10.2",
+    "yamljs": "^0.3.0"
   }
 }
