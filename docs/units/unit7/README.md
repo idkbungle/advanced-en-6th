@@ -1,9 +1,8 @@
 ---
 title: Unit 7
-icon: clock
+icon: book
 date: 2024-01-01 12:00:00
 
-sidebar: true
 category:
   - Units
 tags:
