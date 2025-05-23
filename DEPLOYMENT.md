@@ -57,31 +57,70 @@ npm run dev
 npm run build
 ```
 
+## 技术栈更新
+
+### 主要技术栈
+
+- **VuePress 2.0** - 静态站点生成器
+- **Vue 3** - 前端框架
+- **vuepress-theme-hope** - 现代化主题
+- **Vite** - 快速构建工具
+- **TypeScript** - 类型安全
+- **Sass** - CSS 预处理器
+
+### 主题特性
+
+- 🎨 **现代化设计** - 响应式布局，支持深色模式
+- 🔍 **全文搜索** - 内置搜索功能
+- 📱 **移动端优化** - 完美适配各种设备
+- ⚡ **性能优化** - 基于 Vite 的快速构建
+- 🎯 **SEO 友好** - 自动生成 sitemap 和 robots.txt
+- 📊 **丰富组件** - 支持 tabs、cards、badges 等组件
+- 🎪 **Markdown 增强** - 支持多种 Markdown 扩展语法
+
 ## 故障排除
 
 ### 常见问题
 
 1. **依赖安装失败**
-   - 确保 `package.json` 中没有不存在的 npm 包
-   - 删除 `package-lock.json` 后重新安装
+   - 确保使用 Node.js 18+ 版本
+   - 删除 `node_modules` 和 `package-lock.json` 后重新安装
+   - 检查网络连接
 
 2. **构建失败**
-   - 检查 Node.js 版本是否为 18
-   - 确保 VuePress 配置文件语法正确
+   - 检查 Node.js 版本是否为 18+
+   - 确保所有依赖都已正确安装
+   - 检查 VuePress 配置文件语法
 
-3. **wrangler.toml 配置问题**
-   - 确保使用正确的 Cloudflare Pages 配置格式
-   - 检查构建输出目录路径
+3. **Sass 编译错误**
+   - 确保已安装 `sass-embedded` 依赖
+   - 检查 CSS 文件语法
 
-### 修复历史
+4. **主题配置问题**
+   - 参考 [vuepress-theme-hope 官方文档](https://theme-hope.vuejs.press/)
+   - 检查 frontmatter 配置格式
 
-- **2025-05-23**: 修复了 `repojson` 依赖不存在的问题
-- **2025-05-23**: 更新了 `wrangler.toml` 配置格式
-- **2025-05-23**: 简化了插件配置以提高兼容性
+### 主题迁移记录
+
+- **2025-05-23**: 从 vuepress-theme-vdoing 迁移到 vuepress-theme-hope
+- **2025-05-23**: 升级到 VuePress 2.0 和 Vue 3
+- **2025-05-23**: 简化配置文件结构
+- **2025-05-23**: 修复所有构建和部署问题
+- **2025-05-23**: 更新 UI 组件和页面样式
+
+### 配置变更
+
+主要配置变更包括：
+
+- 使用 ES6 模块语法而非 CommonJS
+- 主题配置集中到单一配置文件
+- 更新 frontmatter 格式以适配新主题
+- 添加 Vite bundler 配置
 
 ## 注意事项
 
 - 确保所有 Markdown 文件都有正确的 frontmatter
 - 图片和静态资源应放在 `docs/.vuepress/public/` 目录下
 - 修改配置文件后需要重启开发服务器
-- 避免使用不兼容或不存在的 VuePress 插件 
+- 避免在 Git 中提交 `docs/.vuepress/.temp/` 和 `docs/.vuepress/dist/` 目录
+- 新主题提供了更丰富的 Markdown 语法支持和 UI 组件 

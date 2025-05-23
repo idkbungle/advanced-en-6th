@@ -18,8 +18,6 @@ export default defineUserConfig({
       url: "https://github.com/idkbungle",
     },
     
-    iconAssets: "fontawesome-with-brands",
-    
     logo: "/logo.png",
     
     repo: "idkbungle/advanced-en-6th",
@@ -73,13 +71,17 @@ export default defineUserConfig({
       components: {
         components: ["Badge", "VPCard"],
       },
+      
+      icon: {
+        assets: "fontawesome-with-brands",
+      },
+      
+      mdEnhance: {
+        align: true,
+        tabs: true,
+      },
     },
   }),
-  
-  markdown: {
-    align: true,
-    tabs: true,
-  },
   
   shouldPrefetch: false,
 }); 

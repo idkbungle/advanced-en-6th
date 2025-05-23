@@ -15,7 +15,7 @@ Welcome to the Advanced English 6th Edition units section. Here you'll find comp
 @tab Unit 1-6
 
 <VPCard
-  title="Unit 1 - If Only / Next Time"
+  title="Unit 1"
   desc="Translation and analysis of Unit 1"
   link="/units/unit1/"
   logo="/icons/unit1.png"
