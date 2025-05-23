@@ -1,15 +1,17 @@
 name = "advanced-en-6th"
-compatibility_date = "2023-12-01"
-
-[build]
-command = "npm run build"
-publish = "docs/.vuepress/dist"
-
-[build.environment_variables]
-NODE_VERSION = "18"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
 
 [env.production]
 name = "advanced-en-6th"
 
-[[env.production.pages_build_output_dir]]
-value = "docs/.vuepress/dist" 
+[build]
+command = "npm run build"
+cwd = "."
+watch_dir = "docs"
+
+[build.environment]
+NODE_VERSION = "20"
+NPM_VERSION = "9"
+
+pages_build_output_dir = "docs/.vuepress/dist" 

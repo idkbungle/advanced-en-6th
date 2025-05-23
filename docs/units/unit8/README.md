@@ -1,5 +1,6 @@
 ---
 title: Unit 8
+icon: globe
 date: 2024-01-01 12:00:00
 
 sidebar: true
