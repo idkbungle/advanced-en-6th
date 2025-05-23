@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
+    "build": "vuepress build docs"
   },
   "keywords": [
     "vuepress",
@@ -17,12 +16,9 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.7",
-    "vuepress-theme-vdoing": "^1.12.8",
-    "dayjs": "^1.11.7",
-    "inquirer": "^7.3.3",
-    "json2yaml": "^1.1.0",
-    "repojson": "^1.0.4",
-    "yaml": "^1.10.2",
-    "yamljs": "^0.3.0"
+    "vuepress-theme-vdoing": "^1.12.8"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7"
   }
 }

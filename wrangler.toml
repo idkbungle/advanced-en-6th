@@ -1,6 +1,13 @@
 name = "advanced-en-6th"
 compatibility_date = "2023-12-01"
 
+[build]
+command = "npm run build"
+publish = "docs/.vuepress/dist"
+
+[build.environment_variables]
+NODE_VERSION = "18"
+
 [env.production]
 name = "advanced-en-6th"
 
