@@ -21,8 +21,8 @@ author:
 
 
 - [Audio](#audio)
-- [Text&Translation](#text&translation)
-- [Summary&Mindmap](#summary&mindmap)
+- [Text&Translation](#texttranslation)
+- [Summary&Mindmap](#summarymindmap)
 - [Analysis](#analysis)
 - [Paraphrase](#paraphrase)
 
