@@ -64,7 +64,7 @@ Red-light running has always been ranked as a minor wrong, and so it may be in i
 
 The scofflaw spirit is pervasive. It is not really surprising when schools find, as some do, that children frequently enter not knowing some of the basic rules of living together. For all their differences, today's scofflaws are of a piece²⁶ as a symptom of elementary social demoralization—the loss by individuals of the capacity to govern their own behavior in the interest of others.
 
-目无法纪的风气已然弥漫 pervasive。因此，当一些学校发现孩子们入学时往往不懂得某些基本的共处规则，也就不足为奇了。尽管表现各异，但如今这些目无法纪之徒²²都如出一辙地折射出一种基本的社会道德衰颓——即个体丧失了为了他人利益而约束自身行为的能力。
+目无法纪的风气已然四处弥漫。因此，当一些学校发现孩子们入学时往往不懂得某些基本的共处规则，也就不足为奇了。尽管表现各异，但如今这些目无法纪之徒²²都如出一辙地折射出一种基本的社会道德衰颓——即个体丧失了为了他人利益而约束自身行为的能力。
 
 The prospect of the collapse of public manners is not merely a matter of etiquette. Society's first concern will remain major crime, but a foretaste of the seriousness of incivility is suggested by what has been happening in Houston. Drivers on Houston freeways have been showing an increasing tendency to replace the rules of the road with violent outbreaks. Items from the Houston police department's new statistical category—freeway traffic violence: 1) Driver flashes high-beam lights at car that cut in front of him, whose occupants then hurl a beer can at his windshield, kick out his tail lights, slug him eight stitches' worth²⁷. 2) Dump-truck driver annoyed by delay batters trunk of stalled car²⁸ ahead and its driver with steel bolt. 3) Hurrying driver of 18-wheel truck deliberately rear-ends²⁹ car whose driver was trying to stay within 55 m.p.h. limit. The Houston Freeway Syndrome³⁰ has fortunately not spread everywhere. But the question is: Will it?
 
